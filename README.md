@@ -37,6 +37,10 @@ A **Flask + SQL web platform** for financial/business services, built collaborat
 ### Multiplayer Unity Game  
 Created a **multiplayer game in Unity (C#)** as part of a group project. This required collaboration, communication, and agile planning, while also developing technical skills in **game logic, networking, and software design**.  
 
+### Accounting and financial services website 
+Currently developing a **full-stack accounting and financial services web application** using Flask, SQL, and Docker, with deployment planned on Azure. The project demonstrates database integration, user authentication, and clean modular design while showcasing skills in cloud deployment and modern software practices.
+
+
 ---
 
 ## Current Focus  
