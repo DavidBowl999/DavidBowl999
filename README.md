@@ -31,7 +31,7 @@ Developed an **evolutionary artificial neural network** (EANN) from scratch in U
 ### Chess Project  
 Designed a **Python chess engine** with a board simulation. This project strengthened my skills in **algorithm design, problem-solving, and object-oriented programming**.  
 
-### Pockets of Excellence (Work in Progress)  
+### Aurelia Beauty and Batham Construction (Work in Progress projects for friends)  
 A **Flask + SQL web platform** for financial/business services, built collaboratively. Includes database integration, user profiles, and a focus on clean, modular design.  
 
 ### Multiplayer Unity Game  
