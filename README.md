@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hello! Welcome to my github profile! 
 ## About Me  
 I am a **recent Computer Science graduate from Cardiff University (BSc Hons, 2025)**, currently seeking **graduate opportunities in software engineering, AI, and emerging technologies**.  
 
