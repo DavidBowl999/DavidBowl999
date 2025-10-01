@@ -25,7 +25,12 @@ I am highly motivated, always eager to learn new technologies quickly, and I thr
 Developed an **evolutionary artificial neural network** (EANN) from scratch in Unity (C#) to explore **deep learning–based obstacle avoidance** for self-driving vehicles.  
 - Built a custom simulation environment  
 - Implemented genetic algorithms to evolve driving behaviour through trial and error  
-- Discussed technical, ethical, and societal implications of autonomous driving in detail  
+- Discussed technical, ethical, and societal implications of autonomous driving in detail
+
+### Flask website - Shake Haven
+This project is a Flask-based web application built using, python, html, css and jinja and is showcasing a milkshake and boba tea store.
+It demonstrates use of Flask, SQLAlchemy, session management and string validation.
+The application supports product listings, user login, shopping cart functionality, and a basic checkout flow.
 
 ### Chess Project  
 Designed a **Python chess engine** with a board simulation. This project strengthened my skills in **algorithm design, problem-solving, and object-oriented programming**.  
@@ -47,7 +52,7 @@ Currently developing a **full-stack accounting and financial services web applic
 I am currently:  
 - Expanding my **machine learning and AI portfolio** with hands-on projects  
 - Learning **cloud deployment and DevOps practices** (Azure/AWS) to take my projects live  
-- Building a full-stack **accounting web application** (Flask + SQL + Azure deployment) as a portfolio project  
+- Building a full-stack **accounting web application** (C# + SQL + Azure deployment) as a portfolio project  
 - Building my **GitHub portfolio** afresh by uploading past projects and using it as version control to create new ones.  
 
 ---
