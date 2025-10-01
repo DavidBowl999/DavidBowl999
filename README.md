@@ -27,6 +27,10 @@ Developed an **evolutionary artificial neural network** (EANN) from scratch in U
 - Implemented genetic algorithms to evolve driving behaviour through trial and error  
 - Discussed technical, ethical, and societal implications of autonomous driving in detail
 
+### MATLAB - BUFFONS NEEDLE PROJECT
+This project is a **MATLAB GUI application** that simulates and visualises **Buffon's Needle Experiment** — a classic probability problem that can be used to estimate the value of π.
+The GUI allows you to drop virtual "needles" onto a lined plane, track how many cross a line, and compare the experimental probability with the theoretical probability.
+
 ### Flask website - Shake Haven
 This project is a Flask-based web application built using, python, html, css and jinja and is showcasing a milkshake and boba tea store.
 It demonstrates use of Flask, SQLAlchemy, session management and string validation.
