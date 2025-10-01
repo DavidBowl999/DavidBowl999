@@ -10,7 +10,7 @@ I am highly motivated, always eager to learn new technologies quickly, and I thr
 
 ## Skills and Technical Knowledge  
 
-- **Programming Languages:** Python, Java, C#, C++, SQL, JavaScript  
+- **Programming Languages:** Python, Java, C#, C++, SQL, JavaScript, MATLAB
 - **Frameworks & Tools:** Flask, Unity, Docker, Git/GitHub, HTML/CSS, Jinja  
 - **Special Interests:**  
   - **Machine Learning & AI** – including deep learning approaches, reinforcement learning, and evolutionary neural networks  
