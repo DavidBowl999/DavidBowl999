@@ -1,6 +1,6 @@
 ## Hey, Welcome! 
 ## About Me  
-I am a **recent Computer Science graduate from Cardiff University (BSc Hons, 2025)**, currently seeking **graduate opportunities in software engineering, AI, and emerging technologies**.  
+I am a **recent Computer Science graduate from Cardiff University (BSc Hons, 2025)**, currently seeking graduate opportunities in software engineering, AI, and emerging technologies.  
 
 Throughout my degree, I focused not only on developing strong programming skills but also on applying them in projects that balance **technical complexity with real-world application**. My work demonstrates both the ability to write efficient, maintainable code and the willingness to explore challenging, innovative areas such as **machine learning and autonomous systems**.  
 
@@ -34,30 +34,14 @@ The GUI allows you to drop virtual "needles" onto a lined plane, track how many 
 ### Flask website - Shake Haven
 This project is a Flask-based web application built using, python, html, css and jinja and is showcasing a milkshake and boba tea store.
 It demonstrates use of Flask, SQLAlchemy, session management and string validation.
-The application supports product listings, user login, shopping cart functionality, and a basic checkout flow.
-
-### Chess Project  
-Designed a **Python chess engine** with a board simulation. This project strengthened my skills in **algorithm design, problem-solving, and object-oriented programming**.  
-
-### Aurelia Beauty and Batham Construction (Work in Progress projects for friends)  
-A **Flask + SQL web platform** for financial/business services, built collaboratively. Includes database integration, user profiles, and a focus on clean, modular design.  
+The application supports product listings, user login, shopping cart functionality, and a basic checkout flow. 
 
 ### Multiplayer Unity Game  
 Created a **multiplayer game in Unity (C#)** as part of a group project. This required collaboration, communication, and agile planning, while also developing technical skills in **game logic, networking, and software design**.  
 
-### Accounting and financial services website 
-Currently developing a **full-stack accounting and financial services web application** using Flask, SQL, and Docker, with deployment planned on Azure. The project demonstrates database integration, user authentication, and clean modular design while showcasing skills in cloud deployment and modern software practices.
+### Booking Reconciliation tool 
+During my time working as a receptionist, a monthly task of reconciling the bookings made through online partners such as booking.com with the bookings we actually have on the system to make sure that there is no loss of commission.  This task was extremely repetitive and required over 10 human labour hours a month.  I developed a reconciler and hosted it on netlify so that the hotel and myself could skip most of the work from this boring monthly task. 
 
-
----
-
-## Current Focus  
-
-I am currently:  
-- Expanding my **machine learning and AI portfolio** with hands-on projects  
-- Learning **cloud deployment and DevOps practices** (Azure/AWS) to take my projects live  
-- Building a full-stack **accounting web application** (C# + SQL + Azure deployment) as a portfolio project  
-- Building my **GitHub portfolio** afresh by uploading past projects and using it as version control to create new ones.  
 
 ---
 
